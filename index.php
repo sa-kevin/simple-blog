@@ -18,5 +18,4 @@ if ($result -> num_rows > 0) {
     echo "No posts found.";
 }
 ?>
-
 <?php include 'templates/footer.php'; ?>
